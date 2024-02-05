@@ -1,2 +1,2 @@
 # Photography_Project
-my first project using css and javaScript.
+- my first project using css and javaScript.
